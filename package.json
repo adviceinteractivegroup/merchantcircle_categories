@@ -1,0 +1,28 @@
+{
+  "name": "merchantcircle_categories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adviceinteractivegroup/merchantcircle_categories.git"
+  },
+  "keywords": [],
+  "author": "Advice Interactive Group",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adviceinteractivegroup/merchantcircle_categories/issues"
+  },
+  "homepage": "https://github.com/adviceinteractivegroup/merchantcircle_categories#readme",
+  "eslintConfig": {
+    "extends": "google"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.6.0"
+  }
+}
